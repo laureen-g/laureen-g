@@ -2,7 +2,7 @@
 
 🎓 Estudante de Criação Digital (Universidade de Caxias do Sul)  
 💻 Desenvolvimento web  
-📱 Desenvolvimento mobile
+📱 Desenvolvimento mobile  
 🚀 Em constante aprendizado e construção de projetos práticos
 
 ### 🛠 Tecnologias
