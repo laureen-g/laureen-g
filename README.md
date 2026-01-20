@@ -1,7 +1,7 @@
 ## 👋 Olá, sou a Laureen
 
 🎓 Estudante de Criação Digital (Universidade de Caxias do Sul)  
-📱 Focada em desenvolvimento web
+📱 Focada em desenvolvimento web  
 🚀 Em constante aprendizado e construção de projetos práticos
 
 ### 🛠 Tecnologias
