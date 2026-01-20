@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Olá, sou a Laureen
 
-<!--
-**laureen-g/laureen-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Criação Digital (Universidade de Caxias do Sul)  
+📱 Focada em desenvolvimento web
+🚀 Em constante aprendizado e construção de projetos práticos
 
-Here are some ideas to get you started:
+### 🛠 Tecnologias
+- Python / Django
+- JavaScript
+- Flutter / Dart
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Atualmente
+- Aprimorando conhecimentos em Flutter
+- Criando apps para prática e portfólio
