@@ -9,7 +9,7 @@
 - Python / Django
 - JavaScript
 - Flutter / Dart
-- Git & GitHub
+- Git
 
 ### 🌱 Atualmente
 - Aprimorando conhecimentos em Flutter
